@@ -27,4 +27,10 @@ By bridging family habit-building with adult social goal-tracking, HabitHub tran
 HabitHub is not just another habit tracker — it’s a **shared ecosystem** for all ages.  
 - **Children:** Build routines through interactive characters and fun challenges.  
 - **Parents:** Model positive behaviors and track children’s progress.  
-- **Adults:** Use social challenges and accountability to achieve goals.  
+- **Adults:** Use social challenges and accountability to achieve goals.
+
+## Demo Guide
+
+Live prototype link: [https://www.figma.com/proto/H4c6FLyWmfkA6SXJT2hFJJ/F25_3375_S1_G7_HabiHub?node-id=0-1&t=SQIXXTqZeZ5eTNIc-1](url)
+
+The Demo does not require any downloads. Once you click on the link above it will take you to the demo page. Please feel free to interact with the prototype. You can check the tasks on home dashboard, swipe left and right to switch pages, or use nav bar to directly access specific page. You can add the task "walk the puppy" and see how the home dashboard changes. 
